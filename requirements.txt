@@ -45,7 +45,7 @@ pluggy==0.13.1
 prettytable==0.7.2
 py==1.8.1
 pycrypto==2.6.1
-Pygments==2.2.0
+Pygments==2.7.4
 pygobject==3.26.1
 pyOpenSSL==17.5.0
 pyparsing==2.4.7
