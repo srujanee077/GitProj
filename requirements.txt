@@ -43,7 +43,7 @@ pathlib2==2.3.5
 Pillow==5.1.0
 pluggy==0.13.1
 prettytable==0.7.2
-py==1.8.1
+py==1.10.0
 pycrypto==2.6.1
 Pygments==2.2.0
 pygobject==3.26.1
